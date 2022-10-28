@@ -1,0 +1,12 @@
+/Users/doniyorniyozov/Repos/github/nuget-package-sample/bin/Debug/net7.0/nuget-package-sample.deps.json
+/Users/doniyorniyozov/Repos/github/nuget-package-sample/bin/Debug/net7.0/nuget-package-sample.dll
+/Users/doniyorniyozov/Repos/github/nuget-package-sample/bin/Debug/net7.0/nuget-package-sample.pdb
+/Users/doniyorniyozov/Repos/github/nuget-package-sample/obj/Debug/net7.0/nuget-package-sample.csproj.AssemblyReference.cache
+/Users/doniyorniyozov/Repos/github/nuget-package-sample/obj/Debug/net7.0/nuget-package-sample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doniyorniyozov/Repos/github/nuget-package-sample/obj/Debug/net7.0/nuget-package-sample.AssemblyInfoInputs.cache
+/Users/doniyorniyozov/Repos/github/nuget-package-sample/obj/Debug/net7.0/nuget-package-sample.AssemblyInfo.cs
+/Users/doniyorniyozov/Repos/github/nuget-package-sample/obj/Debug/net7.0/nuget-package-sample.csproj.CoreCompileInputs.cache
+/Users/doniyorniyozov/Repos/github/nuget-package-sample/obj/Debug/net7.0/nuget-package-sample.dll
+/Users/doniyorniyozov/Repos/github/nuget-package-sample/obj/Debug/net7.0/refint/nuget-package-sample.dll
+/Users/doniyorniyozov/Repos/github/nuget-package-sample/obj/Debug/net7.0/nuget-package-sample.pdb
+/Users/doniyorniyozov/Repos/github/nuget-package-sample/obj/Debug/net7.0/ref/nuget-package-sample.dll

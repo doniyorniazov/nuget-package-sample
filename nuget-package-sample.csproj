@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>Doniyors.0.0.1</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>Doniyor Niazov</Authors>
+    <Company>Simple</Company>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>nuget_package_sample</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
